@@ -24,7 +24,16 @@ namespace MyApp.Core.Commands
             var employee = this.context.Employees.Find(employeeId);
             var manager = this.context.Employees.Find(managerId);
 
-            //TODO check for null
+            if (employee == null)
+            {
+                throw new ArgumentException("Employee does not exist");
+            }
+
+            if (manager == null)
+            {
+                throw new ArgumentException("Manager does not exist");
+            }
+
             employee.Manager = manager;
             this.context.SaveChanges();
 

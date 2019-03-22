@@ -25,11 +25,17 @@ namespace MyApp.Core
                 .ToArray();
 
                 var commandIntepreter = this.provider.GetService<ICommandInterpreter>();
-                string result = commandIntepreter.Read(inputArgs);
 
-                Console.WriteLine(result);
-
-                //TODO add try catch block
+                try
+                {
+                    string result = commandIntepreter.Read(inputArgs);
+                    Console.WriteLine(result);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message.ToString());
+                    //throw;
+                }
             }
 
 

@@ -16,3 +16,12 @@ C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\08.CustomA
 C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\08.CustomAutomapperExercises\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfo.cs
 C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\08.CustomAutomapperExercises\Automapper\obj\Debug\netcoreapp2.1\Automapper.dll
 C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\08.CustomAutomapperExercises\Automapper\obj\Debug\netcoreapp2.1\Automapper.pdb
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\Automapper\bin\Debug\netcoreapp2.1\Automapper.deps.json
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\Automapper\bin\Debug\netcoreapp2.1\Automapper.dll
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\Automapper\bin\Debug\netcoreapp2.1\Automapper.pdb
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\Automapper\obj\Debug\netcoreapp2.1\Automapper.csprojAssemblyReference.cache
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\Automapper\obj\Debug\netcoreapp2.1\Automapper.csproj.CoreCompileInputs.cache
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfoInputs.cache
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfo.cs
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\Automapper\obj\Debug\netcoreapp2.1\Automapper.dll
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\Automapper\obj\Debug\netcoreapp2.1\Automapper.pdb

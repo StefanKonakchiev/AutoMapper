@@ -25,8 +25,7 @@ namespace MyApp
             engine.Run();
 
 
-            MapperConfiguration mapperConfiguration = new MapperConfiguration();
-
+            //MapperConfiguration mapperConfiguration = new MapperConfiguration();
             //mapperConfiguration.Mapper.CreateMappedObject
         }
 

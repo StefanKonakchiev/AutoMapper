@@ -30,6 +30,11 @@ namespace MyApp.Core.Commands
                 .Include(m => m.ManagedEmployees)
                 .FirstOrDefault(x => x.Id == managerId);
 
+            if (manager == null)
+            {
+                throw new ArgumentException("Manager does not exist");
+            }
+
             var managerDto = this.mapper.CreateMappedObject<ManagerDto>(manager);
 
             StringBuilder sb = new StringBuilder();

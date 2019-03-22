@@ -1,0 +1,9 @@
+AddEmployee St Peshev 12333
+
+AddEmployee Ste Pesh 12333
+
+SetManager 10 2
+
+ManagerInfo 1
+
+SetBirthday 1 16-06-1986

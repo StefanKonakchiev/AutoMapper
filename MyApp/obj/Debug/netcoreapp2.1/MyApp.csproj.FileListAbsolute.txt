@@ -22,3 +22,17 @@ C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\08.CustomA
 C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\08.CustomAutomapperExercises\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CopyComplete
 C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\08.CustomAutomapperExercises\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
 C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\08.CustomAutomapperExercises\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\bin\Debug\netcoreapp2.1\Automapper.dll
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\bin\Debug\netcoreapp2.1\Automapper.pdb
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\obj\Debug\netcoreapp2.1\MyApp.csprojAssemblyReference.cache
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CopyComplete
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+C:\Users\a1055490\Desktop\CSharpDBAdvanced\AutoMapper-master\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
